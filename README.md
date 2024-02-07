@@ -10,18 +10,6 @@ I am currently pursuing a Bachelor's degree in Artificial Intelligence and Data 
 
 ---
 
-### Projects 🛠️
-
-Here are some of the projects I've worked on:
-
-- **Sim Agronomy**: Developed a multiplayer simulation game focused on agriculture and farming using Core engine and Lua scripting.
-- **Chittu AI**: Created a personal assistant resembling Jarvis using Python libraries and GPT API for natural language processing.
-- **Counselin**: Built an AI-based learning platform supporting AI, Flutter, Dart, and Deep Learning, integrated with Google Firebase for efficient database management.
-- **Fitup Pro**: Crafted a real-time motion detection fitness game using Unity and Python, with UDP protocol for seamless transmission of motion data.
-- **WeighSwift**: Developed a real-time underload and overload detection system for coal wagons using load cells and IoT devices, with Blender for model design and Python scripts for weight calculations. 🎮
-
----
-
 ### Achievements 🏆
 
 - Winner of Smart India Hackathon 2023 🏅
@@ -54,29 +42,4 @@ Here are some of the projects I've worked on:
 - Fusion360 💡
 
 ---
-
-### Certifications 📜
-
-- Artificial Intelligence by Edunet Foundation 🎓
-
----
-
-### Soft Skills 🤝
-
-- Good Communication skills 💬
-- Team Working skills 🤝
-- Leadership skills 🌟
-- Analytical thinking 🧠
-
----
-
-### Languages 🌐
-
-- Tamil 🟠
-- English 🔵
-- Hindi 🔴
-- Urdu 🟢
-
----
-
-Feel free to explore my projects and reach out to collaborate or discuss any opportunities! 🌈
+Feel free to explore my projects and reach out to collaborate or discuss any opportunities
