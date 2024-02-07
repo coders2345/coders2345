@@ -46,4 +46,4 @@ Tamil 🟠
 English 🔵
 Hindi 🔴
 Urdu 🟢
-Feel free to explore my projects and reach out to collaborate or discuss any opportunities! 
+Feel free to explore my projects and reach out to collaborate or discuss any opportunities! 🌈
