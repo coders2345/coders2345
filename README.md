@@ -18,23 +18,11 @@ I am currently pursuing a Bachelor's degree in Artificial Intelligence and Data 
 - Won the idea phase and participated in the prototype phase of Skill-a-thon 1.0 🎉
 
 ---
-
-### Contact 📞
-
-- **Email**: mabasham@gmail.com
-- **LinkedIn**: linkedin.com/in/mabasha-r
-- **GitHub**: github.com/coders2345
-- **HackerEarth**: hackerearth.com/@mabasham52
-- **Phone**: +91 9025389633
-- **Address**: Thuthikulam, Namakkal 🏠
-
----
-
 ### Technical Skills 💻
 
 - Python 🐍
 - Pg SQL 📊
-- Deep Learning (ANN, CNN) 🧠
+- Deep Learning  🧠
 - Unity 🕹️
 - HTML 🌐
 - CSS 🎨
