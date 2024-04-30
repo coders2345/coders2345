@@ -28,6 +28,7 @@ I am currently pursuing a Bachelor's degree in Artificial Intelligence and Data 
 - CSS 🎨
 - Core 🔧
 - Fusion360 💡
+
 -Javascript
 ---
 Feel free to explore my projects and reach out to collaborate or discuss any opportunities
