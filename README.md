@@ -1,6 +1,6 @@
 🌟 **Mabasha R** 🌟
 
-Hi there! 👋 I'm Mabasha R, a passionate AI and Data Science student with a knack for game development. Welcome to my GitHub profile! 🚀
+Hi there! 👋 I'm Mabasha R, a passionate AI and Data Science student with a knack for game development and SOftware developer. Welcome to my GitHub profile! 🚀
 
 ---
 
