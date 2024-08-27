@@ -21,7 +21,7 @@ I am currently pursuing a Bachelor's degree in Artificial Intelligence and Data 
 ### Technical Skills 💻
 
 - Python 🐍
-- Pg SQL 📊
+- Mongo DB 📊
 - Deep Learning  🧠
 - Unity 🕹️
 - HTML 🌐
